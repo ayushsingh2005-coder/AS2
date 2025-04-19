@@ -1,3 +1,3 @@
 # AS2
-This is first step towards some helpful contribution
+This is first step towards some helpful contribution.
 Author - Ayush Singh
